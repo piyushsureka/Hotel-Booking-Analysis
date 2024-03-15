@@ -9,7 +9,7 @@ We will perform exploratory data analysis with python to get insight from the da
 # Tools and Libraries Used
 We have used Python 3 to its following packages:
 
-Pandas
-Matplotlib
-Seaborn
-Sklearn
+* Pandas
+* Matplotlib
+* Seaborn
+* Sklearn
