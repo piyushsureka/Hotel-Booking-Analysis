@@ -1,2 +1,6 @@
 # Hotel-Booking-Analysis
-Hotel booking analysis is the process of examining data related to hotel bookings to identify patterns, trends, and insights that can inform business decisions. This analysis may include factors such as booking frequency, booking channels, seasonal trends, customer demographics, and revenue generated.
+Analysing the data of Hotel Booking
+
+This data set contains booking information for a city hotel and a resort hotel, and includes information such as when the booking was made, length of stay, the number of adults, children, and/or babies, and the number of available parking spaces, among other things. All personally identifying information has been removed from the data.
+
+We will perform exploratory data analysis with python to get insight from the data.
